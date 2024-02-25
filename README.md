@@ -1,4 +1,4 @@
-#Leetcode practice 
+<b>Leetcode practice </b>
 
 In this repository, I will be documenting my leetcode learning process.
 
